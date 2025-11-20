@@ -1,0 +1,2 @@
+C:/Users/Admin/Desktop/Project Phase/CivicSphere/android/app/.cxx/Debug/4c464w69/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Project Phase/CivicSphere/android/app/.cxx/Debug/4c464w69/armeabi-v7a/CMakeFiles/rebuild_cache.dir
